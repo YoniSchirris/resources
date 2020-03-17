@@ -5,13 +5,19 @@ title: "Self Monitoring App O2"
 
 **Zero2: Self-monitoring app**
 
+[Sign up for the team here](https://docs.google.com/spreadsheets/d/1LGEJGk7nFnioGLAseDu19FJNqueTGQdMtTXCLx9Jm-Q/edit#gid=0)
+[Check the trello board here](https://trello.com/b/6v7ox18R/self-monitoring-o2)
+[Check the google doc with 100% of the notes here](https://docs.google.com/document/d/1RsmD6YvheHjNJbWQv5J8DrjaoDcllK2K8nlzDzkdE4w/edit#)
+[The figma design can be found here](https://www.figma.com/file/GElAUPefKu0eM3nkGVAs1B/Help-eng-Monitor-o2)
+
+
 A mobile app to support individuals in checking their health and provide insights to structure a more effective medical help system.
 
 Note: COVID-19 self-diagnostics tools can provide false sense of security in people but we focus on creating predictive models and reducing the margin of errors.
 
 **Contributors**: 
 
-Dario D’Aprile, Yoni Schirris, Catherine Kelso, Chestnut kugelblitz, Jorge Laranjo and may more ...
+Dario D’Aprile, Yoni Schirris, Catherine Kelso, Chestnut kugelblitz, Jorge Laranjo and many more ...
 
 **Problems** 
 
